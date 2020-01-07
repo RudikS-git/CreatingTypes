@@ -1,0 +1,8 @@
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\bin\Debug\netstandard2.0\CreatingTypes.deps.json
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\bin\Debug\netstandard2.0\CreatingTypes.dll
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\bin\Debug\netstandard2.0\CreatingTypes.pdb
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\obj\Debug\netstandard2.0\CreatingTypes.AssemblyInfoInputs.cache
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\obj\Debug\netstandard2.0\CreatingTypes.AssemblyInfo.cs
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\obj\Debug\netstandard2.0\CreatingTypes.dll
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\obj\Debug\netstandard2.0\CreatingTypes.pdb
+C:\Users\rudik\source\repos\CreatingTypes\CreatingTypes\obj\Debug\netstandard2.0\CreatingTypes.csprojAssemblyReference.cache
